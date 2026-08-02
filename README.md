@@ -43,6 +43,20 @@ Current areas of interest include:
 - agent-assisted workflows for research, coding, and personal knowledge management;
 - analytical pipelines that combine personal digital traces with large language models.
 
+## Current work
+
+### Agent-assisted research systems
+
+Building reproducible tools for literature review, coding, document processing, and research verification.
+
+### Digital-trace analytics
+
+Exploring privacy-conscious methods for structuring personal digital records for longitudinal analysis.
+
+### Empirical economics toolkit
+
+Developing reproducible workflows for data cleaning, econometric replication, robustness checks, visualization, and research documentation.
+
 ## Working toolkit
 
 <div align="center">

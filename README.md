@@ -6,7 +6,7 @@
 />
 
 <p>
-  <strong>Economics × Finance × Data × AI Agents</strong>
+  <strong>Economics & Finance × Data × AI Agents</strong>
 </p>
 
 <p>
@@ -32,16 +32,8 @@
 
 ## Research profile
 
-My work focuses on problems that sit between economic theory and computational practice. I am particularly interested in how strategic interaction, financial constraints, and institutional design shape outcomes in digital and financial systems.
+My work focuses on problems that sit between economic theory and computational practice.
 
-Current areas of interest include:
-
-- coordination failure, strategic complementarity, and systemic risk;
-- blockchain economics, miner entry and exit, and difficulty-adjustment mechanisms;
-- international finance, financial risk management, and digital assets;
-- causal inference, empirical replication, and reproducible economic research;
-- agent-assisted workflows for research, coding, and personal knowledge management;
-- analytical pipelines that combine personal digital traces with large language models.
 
 ## Current work
 
